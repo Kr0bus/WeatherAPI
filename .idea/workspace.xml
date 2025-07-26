@@ -4,17 +4,108 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff411775-d9f8-4b23-b287-d61c854bb47d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/despre.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpthemonkeylol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    <list default="true" id="ff411775-d9f8-4b23-b287-d61c854bb47d" name="Changes" comment="Initial commit. Have PHP files, tests and Python code">
+      <change afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/homeworkhome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/.ipynb_checkpoints/TG_STAID000001-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/.ipynb_checkpoints/stations-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/.ipynb_checkpoints/weather-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000005.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000006.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000007.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000008.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000009.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000010.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000011.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000012.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000013.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000015.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000016.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000021.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000022.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000023.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000024.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000025.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000026.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000027.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000028.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000029.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000030.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000031.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000032.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000033.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000034.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000036.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000037.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000039.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000040.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000041.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000042.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000043.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000044.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000045.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000046.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000047.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000048.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000049.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000050.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000051.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000052.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000053.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000054.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000055.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000058.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000059.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000060.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000061.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000062.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000063.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000064.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000065.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000066.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000067.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000068.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000069.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000070.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000071.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000072.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000073.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000074.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000075.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000076.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000077.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000078.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000079.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000080.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000081.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000082.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000083.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000084.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000085.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000086.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000087.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000088.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000089.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000090.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000091.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000092.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000093.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000094.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000095.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000096.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000097.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000098.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000099.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/TG_STAID000100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/stations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherdata/weather.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +115,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -40,7 +131,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2zFFhhQtRuuN97ATgdtSnBYI4jr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,19 +143,23 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Python.flaskset (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.flaskset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/PyhonProjects/TheWeatherApp/pythonProject1/venv&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/PyhonProjects/TheWeatherApp/pythonProject1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1" />
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1" />
-      <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\static" />
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\templates" />
+      <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\static" />
     </key>
   </component>
   <component name="RunManager" selected="Python.flaskset (1)">
@@ -110,9 +207,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.flaskset (1)" />
+        <item itemvalue="Python.homework" />
         <item itemvalue="Python.flaskset" />
       </list>
     </recent_temporary>
@@ -133,6 +253,19 @@
       <option name="presentableId" value="Default" />
       <updated>1751319034840</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit. Have PHP files, tests and Python code">
+      <option name="closed" value="true" />
+      <created>1752398936787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752398936787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit. Have PHP files, tests and Python code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit. Have PHP files, tests and Python code" />
   </component>
 </project>
