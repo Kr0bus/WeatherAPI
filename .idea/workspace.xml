@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff411775-d9f8-4b23-b287-d61c854bb47d" name="Changes" comment="Second Commit, includes a lot.">
+    <list default="true" id="ff411775-d9f8-4b23-b287-d61c854bb47d" name="Changes" comment="Third Commit, users can now add station ID and date to get desired info.">
+      <change afterPath="$PROJECT_DIR$/homeworkdict/dictionary.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/homeworkhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homeworkhome.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +51,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/PyhonProjects/TheWeatherApp/pythonProject1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/PyhonProjects/TheWeatherApp/pythonProject1/homeworkdict&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\homeworkdict" />
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1" />
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1" />
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\templates" />
+      <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1" />
       <recent name="G:\PyhonProjects\TheWeatherApp\pythonProject1\static" />
     </key>
   </component>
@@ -170,12 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753522434061</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third Commit, users can now add station ID and date to get desired info.">
+      <option name="closed" value="true" />
+      <created>1753542070064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753542070064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit. Have PHP files, tests and Python code" />
     <MESSAGE value="Second Commit, includes a lot." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit, includes a lot." />
+    <MESSAGE value="Third Commit, users can now add station ID and date to get desired info." />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Commit, users can now add station ID and date to get desired info." />
   </component>
 </project>
