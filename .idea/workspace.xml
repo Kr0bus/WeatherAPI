@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff411775-d9f8-4b23-b287-d61c854bb47d" name="Changes" comment="Third Commit, users can now add station ID and date to get desired info.">
-      <change afterPath="$PROJECT_DIR$/homeworkdict/dictionary.csv" afterDir="false" />
+    <list default="true" id="ff411775-d9f8-4b23-b287-d61c854bb47d" name="Changes" comment="4th Commit, added stations table on homepage showing the ids they belong to.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/homeworkhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homeworkhome.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,13 +179,22 @@
       <option name="project" value="LOCAL" />
       <updated>1753542070064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4th Commit, added stations table on homepage showing the ids they belong to.">
+      <option name="closed" value="true" />
+      <created>1753626252368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753626252368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit. Have PHP files, tests and Python code" />
     <MESSAGE value="Second Commit, includes a lot." />
     <MESSAGE value="Third Commit, users can now add station ID and date to get desired info." />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit, users can now add station ID and date to get desired info." />
+    <MESSAGE value="4th Commit, added stations table on homepage showing the ids they belong to." />
+    <option name="LAST_COMMIT_MESSAGE" value="4th Commit, added stations table on homepage showing the ids they belong to." />
   </component>
 </project>
